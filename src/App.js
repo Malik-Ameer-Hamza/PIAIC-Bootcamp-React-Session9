@@ -6,6 +6,7 @@ import PieChart from './pieChart.js';
 function App() {
   return (
     <div className="App">
+    <h1>Bootcamp by PIAIC React session 9</h1>
       <SimplePaper />
       <BarChart />
       <PieChart />
